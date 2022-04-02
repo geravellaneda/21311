@@ -1,0 +1,20 @@
+/* CONTENT */
+h1, h2 {
+	font-family: $fontDisplay;
+	font-size: 8rem;
+	line-height: 7rem;
+	color: $colorDark;
+}
+h1 {
+	font-size: 4rem;
+	font-weight: $fontDisplayThin;
+}
+
+main {
+	background-color: $colorLight;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}

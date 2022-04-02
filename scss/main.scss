@@ -1,3 +1,10 @@
-body {
-	background-color: green;
-}
+//IMPORTS
+@import "_commons";
+/* FONTS */ 
+@import "_fonts";
+@import "_reset";
+/* NAVBAR */
+@import "_navBar";
+/* CONTENT */ 
+@import "_content";
+@import "_footer";
